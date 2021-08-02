@@ -11,6 +11,7 @@
 # But we can make this *faster* by leveraging the fact that our array is sorted!
 # Searching trough a list? Never check every item.
 
+
 # Time Complexity:
 # Binary search ~ O(log(n)), linear search ~ O(n)
 
